@@ -1,10 +1,10 @@
 # olshop_app
 
-Projek UTS Pemrograman Client Server
+Simple Project Flutter App
 
 ## Getting Started
 
-Aplikasi Olshop Sederhana Flutter dengan Codeigniter dengan MYSQL.
+Simple Flutter Olshop application Codeigniter with MYSQL.
 
 A few resources to get you started if this is your first Flutter project:
 
